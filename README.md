@@ -23,9 +23,6 @@
 <br />
 <br />
 
----
-
-
 <img align="left" src="https://github-readme-mediumlist.vercel.app/user/mackensiealvarez" />
 
 
