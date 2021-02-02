@@ -3,7 +3,7 @@
 ## Trying to change the world one line of code at a time!
 - 🔭 I currently work the Estèe Lauder Companies!
 - ⚡  Building great things at Techbuds
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
